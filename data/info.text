@@ -1,0 +1,2 @@
+to start up json server in powershell
+npx json-server --watch data/db.json --port 8000
